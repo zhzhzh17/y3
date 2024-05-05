@@ -1,0 +1,74 @@
+{
+    "action": [
+        {
+            "action_type": "SET_VARIABLE", 
+            "args_list": [
+                {
+                    "arg_type": 100030, 
+                    "args_list": [
+                        {
+                            "__tuple__": true, 
+                            "items": [
+                                "UNIT_ENTITY", 
+                                "\u82f1\u96c4", 
+                                "local"
+                            ]
+                        }
+                    ], 
+                    "sub_type": 1
+                }, 
+                {
+                    "arg_type": 100006, 
+                    "args_list": [
+                        {
+                            "arg_type": 100025, 
+                            "args_list": [], 
+                            "sub_type": "TRIGGER_PLAYER"
+                        }, 
+                        {
+                            "arg_type": 100003, 
+                            "args_list": [
+                                "\u82f1\u96c4"
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "sub_type": "GET_UNIT_ENTITY_KV"
+                }
+            ], 
+            "bp": false, 
+            "element_id": 1040846910000184, 
+            "enable": true
+        }
+    ], 
+    "call_enabled": true, 
+    "condition": [], 
+    "enabled": false, 
+    "event": [
+        {
+            "args_list": [], 
+            "element_id": 1040846910000002, 
+            "enable": true, 
+            "event_type": "INIT_FINISHED"
+        }, 
+        {
+            "args_list": [
+                {
+                    "arg_type": 100067, 
+                    "args_list": [
+                        "\u9009\u62e9\u82f1\u96c4_\u968f\u673a\u5237\u65b0\u6309\u94ae"
+                    ], 
+                    "sub_type": 1
+                }
+            ], 
+            "element_id": 1040846910000194, 
+            "enable": true, 
+            "event_type": "TRIGGER_COMPONENT_EVENT"
+        }
+    ], 
+    "group_id": 0, 
+    "p_trigger_id": null, 
+    "trigger_id": 1040846910, 
+    "trigger_name": "\u65b0\u5efa\u89e6\u53d1\u5668", 
+    "valid": true
+}

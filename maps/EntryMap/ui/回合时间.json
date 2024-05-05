@@ -1,0 +1,130 @@
+{
+    "adapt_mode": 2, 
+    "anim_data": {}, 
+    "children": [
+        {
+            "cap_insets": {
+                "__tuple__": true, 
+                "items": [
+                    13, 
+                    8, 
+                    303, 
+                    101
+                ]
+            }, 
+            "children": [
+                {
+                    "children": [], 
+                    "event_list": [], 
+                    "name": "\u5012\u8ba1\u65f6", 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            122.0, 
+                            54.0
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            30.0493, 
+                            50.0
+                        ]
+                    }, 
+                    "prefab_sub_key": null, 
+                    "scene_ui_name": null, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            200.0, 
+                            100
+                        ]
+                    }, 
+                    "text": {
+                        "__tuple__": true, 
+                        "items": [
+                            "\u4e0b\u4e00\u6ce2\u8fdb\u653b\u65f6\u95f4", 
+                            false
+                        ]
+                    }, 
+                    "type": 3, 
+                    "uid": "d46d8cd4-8b0c-4fbd-9923-2177799da833"
+                }, 
+                {
+                    "children": [], 
+                    "event_list": [], 
+                    "name": "\u5269\u4f59\u65f6\u95f4", 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            309.0, 
+                            54.0
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            76.1084, 
+                            50.0
+                        ]
+                    }, 
+                    "prefab_sub_key": null, 
+                    "review_word": true, 
+                    "scene_ui_name": null, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            146.0, 
+                            100
+                        ]
+                    }, 
+                    "text": {
+                        "__tuple__": true, 
+                        "items": [
+                            "59", 
+                            false
+                        ]
+                    }, 
+                    "type": 3, 
+                    "uid": "c3c19985-3297-441c-84ce-a5390fe32b1a"
+                }
+            ], 
+            "event_list": [], 
+            "image": 904620, 
+            "is_scale9_enable": true, 
+            "name": "image_4", 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    1700.0, 
+                    949.0
+                ]
+            }, 
+            "pos_percent": {
+                "__tuple__": true, 
+                "items": [
+                    88.5417, 
+                    87.8704
+                ]
+            }, 
+            "prefab_sub_key": null, 
+            "scene_ui_name": null, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    406.0, 
+                    108.0
+                ]
+            }, 
+            "type": 4, 
+            "uid": "adbdc650-76c3-4175-87e8-526940154a2e"
+        }
+    ], 
+    "name": "\u56de\u5408\u65f6\u95f4", 
+    "opacity": 1.0, 
+    "type": 2, 
+    "ui_anims": [], 
+    "uid": "b830e1f9-4cdf-4c99-9225-49e8e8239c14", 
+    "visible": true, 
+    "zorder": 400
+}
