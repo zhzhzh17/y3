@@ -16,8 +16,25 @@
                     }, 
                     "children": [
                         {
+                            "camera_mode": 1, 
+                            "camera_pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    -5.2125, 
+                                    4.2044, 
+                                    5.2407
+                                ]
+                            }, 
                             "children": [], 
                             "event_list": [], 
+                            "focus_pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    -4.5654, 
+                                    3.8013, 
+                                    4.5936
+                                ]
+                            }, 
                             "name": "\u89d2\u8272\u6a21\u578b", 
                             "pos": {
                                 "__tuple__": true, 
@@ -167,6 +184,7 @@
                             226.0
                         ]
                     }, 
+                    "swallow_touches": true, 
                     "type": 4, 
                     "uid": "90b6f6c4-d376-4c68-8ae2-43e95cf12a97"
                 }, 
@@ -182,8 +200,25 @@
                     }, 
                     "children": [
                         {
+                            "camera_mode": 1, 
+                            "camera_pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    -5.2125, 
+                                    4.2044, 
+                                    5.2407
+                                ]
+                            }, 
                             "children": [], 
                             "event_list": [], 
+                            "focus_pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    -4.5654, 
+                                    3.8013, 
+                                    4.5936
+                                ]
+                            }, 
                             "name": "\u89d2\u8272\u6a21\u578b", 
                             "pos": {
                                 "__tuple__": true, 
@@ -333,6 +368,7 @@
                             226.0
                         ]
                     }, 
+                    "swallow_touches": true, 
                     "type": 4, 
                     "uid": "9368bd2b-2224-4c2c-99a4-0a3aba7f5cd0"
                 }, 
@@ -348,8 +384,25 @@
                     }, 
                     "children": [
                         {
+                            "camera_mode": 1, 
+                            "camera_pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    -5.2125, 
+                                    4.2044, 
+                                    5.2407
+                                ]
+                            }, 
                             "children": [], 
                             "event_list": [], 
+                            "focus_pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    -4.5654, 
+                                    3.8013, 
+                                    4.5936
+                                ]
+                            }, 
                             "name": "\u89d2\u8272\u6a21\u578b", 
                             "pos": {
                                 "__tuple__": true, 
@@ -499,24 +552,25 @@
                             226.0
                         ]
                     }, 
+                    "swallow_touches": true, 
                     "type": 4, 
                     "uid": "0a0dfae7-8bd7-4ebd-9ae3-9e21d361c2d1"
                 }
             ], 
             "event_list": [], 
-            "name": "layout_1", 
+            "name": "\u653e\u7f6e\u5217\u8868", 
             "pos": {
                 "__tuple__": true, 
                 "items": [
-                    1065.0, 
-                    194.0
+                    1060.0, 
+                    296.0
                 ]
             }, 
             "pos_percent": {
                 "__tuple__": true, 
                 "items": [
-                    55.4688, 
-                    17.963
+                    55.2083, 
+                    27.4074
                 ]
             }, 
             "prefab_sub_key": null, 

@@ -5,10 +5,10 @@
             "color": {
                 "__tuple__": true, 
                 "items": [
-                    254, 
-                    5, 
-                    117, 
-                    99
+                    225, 
+                    25, 
+                    115, 
+                    38
                 ]
             }, 
             "height": {
@@ -47,47 +47,6 @@
                 "items": [
                     35, 
                     2376553990
-                ]
-            }
-        }, 
-        "10031": {
-            "color": null, 
-            "height": {
-                "__tuple__": true, 
-                "items": [
-                    0, 
-                    190548838
-                ]
-            }, 
-            "id": 10031, 
-            "name": "\u77e9\u5f62\u533a\u57df", 
-            "placed_lock": false, 
-            "placed_visibility": true, 
-            "pos": {
-                "__tuple__": true, 
-                "items": [
-                    [
-                        21, 
-                        1546747904
-                    ], 
-                    [
-                        0, 
-                        0
-                    ], 
-                    [
-                        20, 
-                        2834333696
-                    ]
-                ]
-            }, 
-            "sound": null, 
-            "type": 2048, 
-            "weather": 0, 
-            "width": {
-                "__tuple__": true, 
-                "items": [
-                    -1, 
-                    3387177329
                 ]
             }
         }
